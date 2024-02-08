@@ -6,7 +6,7 @@
 
 ## Create program c
 
-        <>
+        - Example
 
         #include <stdio.h>
 
@@ -26,7 +26,7 @@
 
 
 
-## Compiler a binario WASM with Emscripten
+## Compiler project WASM binario with Emscripten
 
     - Install emcripten if you don't have it
     
